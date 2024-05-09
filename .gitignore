@@ -3,5 +3,5 @@ env/
 /env
 env/Lib/__pycache__/_bootlocale.cpython-38.pyc
 env/Lib/
-env\Lib
+env/Lib
 D:\Develops\VsCode\Flask_Scrapper\env
